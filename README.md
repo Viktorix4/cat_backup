@@ -8,4 +8,4 @@
 - `backup_log.json` — файл лога, в который записываются данные о каждом сохранённом изображении (время, текст, имя файла)
 
 ## Яндекс-диск
-(https://disk.yandex.ru/d/ObsEiw8tUtFzXQ)
+[Ссылка].(https://disk.yandex.ru/d/ObsEiw8tUtFzXQ)
