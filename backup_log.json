@@ -1,0 +1,37 @@
+[
+    {
+        "filename": "hello.jpg",
+        "original_text": "hello",
+        "file_size_bytes": 144777,
+        "uploaded_at": "2026-01-12T19:09:15.569139",
+        "remote_path": "SPD-138/hello.jpg"
+    },
+    {
+        "filename": "How are you_.jpg",
+        "original_text": "How are you?",
+        "file_size_bytes": 740159,
+        "uploaded_at": "2026-01-12T19:23:27.810671",
+        "remote_path": "SPD-138/How are you_.jpg"
+    },
+    {
+        "filename": "Super.jpg",
+        "original_text": "Super",
+        "file_size_bytes": 328884,
+        "uploaded_at": "2026-01-12T19:25:10.383998",
+        "remote_path": "SPD-138/Super.jpg"
+    },
+    {
+        "filename": "What are you doing_.jpg",
+        "original_text": "What are you doing?",
+        "file_size_bytes": 23198,
+        "uploaded_at": "2026-01-12T19:27:11.916053",
+        "remote_path": "SPD-138/What are you doing_.jpg"
+    },
+    {
+        "filename": "I'm sleeping.jpg",
+        "original_text": "I'm sleeping",
+        "file_size_bytes": 33246,
+        "uploaded_at": "2026-01-12T19:27:56.922219",
+        "remote_path": "SPD-138/I'm sleeping.jpg"
+    }
+]
